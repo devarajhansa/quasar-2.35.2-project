@@ -6,4 +6,11 @@
 
 <script setup>
 //
+import { ref } from 'vue';
+
+const r = ref(0);
+
+console.log('r', r.value);
+
+
 </script>
