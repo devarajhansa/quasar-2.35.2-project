@@ -21,7 +21,7 @@
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
-    "@quasar/app-vite": "^3.10.3",
+    "@quasar/app-vite": "^3.9.0",
     "@quasar/cli": "^5.0.9",
     "@vue/eslint-config-prettier": "^10.2.0",
     "autoprefixer": "^10.4.27",
